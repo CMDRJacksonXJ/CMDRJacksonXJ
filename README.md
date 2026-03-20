@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CMDRJacksonXJ
-- 👀 I’m interested in the progressing of ai
-- 🌱 I’m currently learning computer science (specifically ai-related stuff)
-- 📫 How to reach me: jacksonjedynak2@gmail.com
+- 👀 I’m interested in the game developments.
+- 🌱 I’m currently learning computer science. game dev
+- 📫 How to reach me: preferably @cmdrjacksonxj on discord
 - 😄 Pronouns: him/his/he
 - ⚡ Fun fact: i exist.
 
